@@ -175,7 +175,7 @@
 <teaching_module> a skos:Concept ;
     skos:prefLabel "Unterrichtsbaustein"@de ;
     skos:prefLabel "teaching module"@en ;
-    skos: topConceptOf <> .
+    skos:topConceptOf <> .
 
 <tool> a skos:Concept ;
     skos:prefLabel "Werkzeug"@de ;
